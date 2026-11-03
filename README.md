@@ -13,7 +13,7 @@ A simple Python script that removes introns from a DNA sequence using their star
 
 ### How to Run
 ```bash
-run the DNA_without_introns.py
+run the Multiple exons from genomic DNA.py
 
 
 ### Output
